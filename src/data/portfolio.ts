@@ -190,7 +190,6 @@ export const projects: Project[] = [
     technologies: ["React", "TypeScript", "Chart.js", "OpenWeatherMap API", "Leaflet", "PWA"],
     category: "frontend",
     demoUrl: "https://weather.example.com",
-    codeUrl: "https://github.com/alex-morozov/weather-app",
     featured: false,
     stats: [
       { label: "Городов", value: "195+" },
