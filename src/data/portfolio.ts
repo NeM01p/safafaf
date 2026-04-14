@@ -171,7 +171,7 @@ export const projects: Project[] = [
     technologies: ["Next.js", "OpenAI API", "TypeScript", "Supabase", "Tailwind CSS", "Framer Motion"],
     category: "fullstack",
     demoUrl: "https://tasks.example.com",
-    codeUrl: "https://github.com/alex-morozov/ai-tasks",
+    codeUrl: "https://github.com/yaroslav/ai-tasks",
     featured: true,
     stats: [
       { label: "Задач создано", value: "50K+" },
@@ -208,21 +208,21 @@ export const techStack = [
 export const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com/alex-morozov",
+    url: "https://github.com/yaroslav",
     icon: "github",
     color: "#ffffff",
     description: "Мой код",
   },
   {
     name: "Telegram",
-    url: "https://t.me/alex_morozov_dev",
+    url: "https://t.me/yaroslav_dev",
     icon: "telegram",
     color: "#229ED9",
     description: "Написать мне",
   },
   {
     name: "VK",
-    url: "https://vk.com/alex_morozov",
+    url: "https://vk.com/nonv",
     icon: "vk",
     color: "#0077FF",
     description: "ВКонтакте",
