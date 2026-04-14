@@ -152,7 +152,7 @@ export const projects: Project[] = [
     technologies: ["React", "Node.js", "Socket.io", "MongoDB", "JWT", "AWS S3"],
     category: "fullstack",
     demoUrl: "https://chat.example.com",
-    codeUrl: "https://github.com/alex-morozov/chat-app",
+    codeUrl: "https://github.com/yaroslav/chat-app",
     featured: true,
     stats: [
       { label: "Активных чатов", value: "500+" },
