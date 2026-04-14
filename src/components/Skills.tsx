@@ -161,9 +161,9 @@ export default function Skills() {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4"
         >
           {[
-            { value: "22+", label: "Технологий в стеке", gradient: "from-indigo-500 to-violet-600" },
-            { value: "5+", label: "Лет опыта", gradient: "from-violet-500 to-purple-600" },
-            { value: "30+", label: "Проектов сдано", gradient: "from-cyan-500 to-indigo-500" },
+            { value: "1", label: "Технологий в стеке", gradient: "from-indigo-500 to-violet-600" },
+            { value: "1", label: "Лет опыта", gradient: "from-violet-500 to-purple-600" },
+            { value: "1", label: "Проектов сдано", gradient: "from-cyan-500 to-indigo-500" },
             { value: "∞", label: "Желания учиться", gradient: "from-pink-500 to-violet-600" },
           ].map((stat, i) => (
             <div
