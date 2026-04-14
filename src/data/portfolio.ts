@@ -12,9 +12,9 @@ export const personalInfo = {
   max: "",
   avatar: "/images/avatar.jpg",
   resumeUrl: "#",
-  yearsOfExperience: 5,
-  projectsCompleted: 30,
-  happyClients: 20,
+  yearsOfExperience: 1,
+  projectsCompleted: 1,
+  happyClients: 1,
 };
 
 export type Skill = {
@@ -66,15 +66,6 @@ export type Experience = {
 };
 
 export const experiences: Experience[] = [
-  {
-    company: "ООО «ТехноСофт»",
-    position: "Senior Full-Stack Developer",
-    period: "2022 — н.в.",
-    description:
-      "Разработка и поддержка крупного B2B SaaS-платформы для управления логистикой. Архитектурные решения, оптимизация производительности, менторинг junior-разработчиков.",
-    technologies: ["Next.js", "TypeScript", "NestJS", "PostgreSQL", "Docker", "Redis"],
-    type: "work",
-  },
   {
     company: "Стартап «FinTech Hub»",
     position: "Middle Frontend Developer",
