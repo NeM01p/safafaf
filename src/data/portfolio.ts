@@ -3,10 +3,7 @@
 export const personalInfo = {
   name: "Кальмбах Ярослав",
   nameEn: "Kalmbah Yaroslav",
-  title: "Full-Stack Developer",
-  tagline: "Создаю современные веб-приложения",
   description:
-    "Разрабатываю высокопроизводительные веб-приложения с фокусом на пользовательский опыт и чистый код. Специализируюсь на React, Next.js и Node.js экосистеме.",
   location: "Сочи, Россия",
   email: "kalmbaharoslav@gmail.com",
   telegram: "t.me",
