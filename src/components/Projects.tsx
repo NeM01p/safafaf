@@ -343,7 +343,7 @@ export default function Projects() {
         >
           <p className="text-slate-500 mb-4">Больше проектов на GitHub</p>
           <a
-            href="https://github.com/alex-morozov"
+            href="https://github.com/nemo1p"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl glass border border-white/10 text-white font-semibold hover:border-indigo-500/30 hover:bg-indigo-500/5 transition-all duration-300"
